@@ -1,5 +1,5 @@
 # http_call 
-URL 호출하여 HTML의 컨텐츠(css, js, image) 호출 테스트 코드 
+URL을 호출하여 html의 하위 컨텐츠(css, js, image) 호출 테스트 코드 
 
 ### Nodejs 
 ```bash
@@ -8,7 +8,6 @@ node main
 ```
 
 --
-
 
 ### C++ 버전 
 Visual Studio 2015 
